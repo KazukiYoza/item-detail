@@ -130,7 +130,7 @@ table , td, th {
 .thumbnail-thumb div div div { cursor: pointer;}
 
 .thumbnail-thumb img{
-    height: 55px;
+    height: 50px;
     width: auto;
     object-fit: cover;
 }
