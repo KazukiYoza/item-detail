@@ -131,8 +131,8 @@ table , td, th {
 
 .thumbnail-thumb img{
     height: 50px;
-    width: auto;
-    object-fit: cover;
+    width: 70px;
+    object-fit: contain;
 }
 button{
     margin: 0;
